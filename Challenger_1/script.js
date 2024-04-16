@@ -36,4 +36,4 @@ function codeUsernameValidation(nameUser) {
   return verifyStatus(this.obj.correct);
 }
 
-console.log(codeUsernameValidation("gffgv_"));
+console.log(codeUsernameValidation(""));
